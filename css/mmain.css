@@ -1,0 +1,277 @@
+body {
+    background-color: #fff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 112px;
+    background-color: #fcfafa;
+}
+
+.header-container {
+    display: flex;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.header-logo {}
+
+.header-logo-btn {
+    background-color: #0876DD;
+    padding: 10px 16px;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+}
+
+.hero {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #FAFBFB;
+    font-family: sans-serif;
+}
+
+.hero-container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+
+.hero-btn {
+    width: 164px;
+    height: 48px;
+    padding: 12px 16px 12px 16px;
+    gap: 8px;
+    border-radius: 6px;
+    background-color: #0876DD;
+    border: none;
+    color: white;
+}
+
+.hero-text {
+    margin-bottom: 20px;
+    font-size: 65px;
+    font-family: sans-serif;
+}
+
+.hero-info {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.hero-img {
+    width: 592px;
+    top: 112px;
+    left: 736px;
+}
+
+.hero-logo {
+    align-items: center;
+}
+
+.all-in {
+    width: Fixed 1, 440px;
+    height: 1, 420px;
+    padding: 96px 112px 96px 112px;
+    gap: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #FAFBFB;
+}
+
+.platform {}
+
+.all-in-text {
+    font-family: General Sans ,sans-serif;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.01em;
+}
+
+.all-in-info {
+    font-family: General Sans ,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+.lap-top{
+    margin-top: 48px;
+}
+
+.event {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #FAFBFB;
+}
+
+.icon {}
+
+.event-cart {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.event-cart-1 {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.event-img1 {}
+
+.event-text {
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.event-info {
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.Integrate {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #FAFBFB;
+}
+
+.Integrate-container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+
+.Integrate-tex-box {}
+
+.Integrate-text {
+    font-family: sans-serif;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.Integrate-info {
+    font-family: sans-serif;
+}
+
+.img-Integrate {
+    margin-left: auto;
+    margin-right: 112px;
+}
+
+.Create {
+    width: 1, 440px;
+    padding: 64px 112px 64px 112px;
+    gap: 10px;
+    background-color: #111827;
+}
+
+.Create-container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.Create-text {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.Create-info {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+    margin-top: 16px;
+}
+
+.Create-btn {
+    width: 164px;
+    height: 48px;
+    padding: 12px 16px 12px 16px;
+    gap: 8px;
+    border-radius: 6px;
+    background-color: #0876DD;
+    color: white;
+    border: none;
+    margin-top: 40px;
+}
+
+.RegiM {
+    padding-bottom: 40px;
+    padding-top: 64px;
+    gap: 10px;
+    background-color: #111827;
+    color: white;
+}
+
+.RegiM-container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.RegiM-img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.RegiM-img-1 {}
+
+.RegiM-text {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 34px;
+    font-family: sans-serif;
+}
+
+.RegiM-info {
+    color: gray;
+}
+
+.hh3 {
+    color: white;
+}
+
+.h3 {
+    color: white;
+}
+
+
+.footer__line {
+    width: 600px;
+    height: 2px;
+    background-color: gray;
+
+}
